@@ -1,0 +1,7 @@
+python-dotenv
+requests
+elasticsearch
+mysql-connector-python
+alembic
+Faker
+pymysql
